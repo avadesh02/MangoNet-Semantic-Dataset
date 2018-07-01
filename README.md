@@ -25,6 +25,7 @@ Example images of the MangoNet Semantic Dataset:
 ## Cloning the MangoNet semantic dataset.
  
 Clone the dataset from git using:
+
 `git clone https://github.com/avadesh02/MangoNet-Semantic-Dataset.git`
 
 ## How to cite the MangoNet semantic dataset ?
