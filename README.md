@@ -20,7 +20,12 @@ Example images of the MangoNet Semantic Dataset:
 |<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/original%20images/IMG_0087.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/annotated%20images/Class_087.jpg" width="400"/>|
 |<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/original%20images/IMG_0099.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/annotated%20images/Class_099.jpg" width="400"/>|
 |<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/original%20images/IMG_0111.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/annotated%20images/Class_111.jpg" width="400"/>|
+|<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Test_data/original%20images/IMG_0127.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Test_data/annotated%20images/Class_127.jpg" width="400"/>|
 
+## Cloning the MangoNet semantic dataset.
+ 
+Clone the dataset from git using:
+`git clone https://github.com/avadesh02/MangoNet-Semantic-Dataset.git`
 
 ## How to cite the MangoNet semantic dataset ?
 Please cite the dataset in your publication if it helps your research.
