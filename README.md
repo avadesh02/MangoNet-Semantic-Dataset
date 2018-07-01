@@ -7,8 +7,11 @@ The MangoNet semantic dataset contains images of mango trees in an open orchad a
 
 The MangoNet semantic dataset contains 45 training images of size 4000*3000 and contains 4 test images of size 4000*3000. For each image the dataset contains a correspoding annotated image which is colored green in regions of mangoes and black in non mango regions.
   
-
-
+### Salient features of Dataset:
+1) Contains images with varied number of mangoes.
+2) Contains images with mangoes in different scale and size.
+3) Contains images with varying contrast and lighting.
+4) Contains images with mangoes present in vayinng amount of occlusion.
 
 Example images of the MangoNet Semantic Dataset:
 
@@ -21,3 +24,9 @@ Example images of the MangoNet Semantic Dataset:
 
 ## How to cite the MangoNet semantic dataset ?
 Please cite the dataset in your publication if it helps your research.
+
+Title of paper : MangoNet:A deep semantic segmentation architecture for
+a method to detect and count mangoes in an open
+orchard
+
+status: Paper under review in International Scientific Journal Engineering Applications of Artificial Intelligence.
