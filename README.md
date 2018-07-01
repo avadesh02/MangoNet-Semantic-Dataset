@@ -14,7 +14,7 @@ The MangoNet semantic dataset contains 45 training images of size 4000*3000 and 
 
 Example images of the MangoNet Semantic Dataset:
 
-| **Original Images** | **Annaotated Images** |
+| **Original Images** | **Annotated Images** |
 | --------------- | ----------------- |
 |<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/original%20images/IMG_0087.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/annotated%20images/Class_087.jpg" width="400"/>|
 |<img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/original%20images/IMG_0099.JPG" width="400"/>  | <img src="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/MangoNet%20Dataset/Train_data/annotated%20images/Class_099.jpg" width="400"/>|
